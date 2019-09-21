@@ -13,7 +13,9 @@
         android:layout_marginStart="176dp"
         android:layout_marginLeft="176dp"
         android:layout_marginTop="396dp"
+        android:background="#00FFFFFF"
         android:text="Contacto"
+        android:textColor="#000000"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

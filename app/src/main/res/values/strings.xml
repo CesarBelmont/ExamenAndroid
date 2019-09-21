@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="inicio_tab">Inicio</string>
+    <string name="nosotros_tab">Nosotros</string>
+    <string name="contacto_tab">Contacto</string>
+    <string name="sesion_tab">Sesion</string>
+</resources>

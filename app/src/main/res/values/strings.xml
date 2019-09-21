@@ -4,4 +4,15 @@
     <string name="nosotros_tab">Nosotros</string>
     <string name="contacto_tab">Contacto</string>
     <string name="sesion_tab">Sesion</string>
+    <string-array name="tipos">
+        <item>Electrodomesticos</item>
+        <item>Linea Blanca</item>
+        <item>Relojes</item>
+    </string-array>
+    <string-array name="lineaB">
+        <item>Lavadora</item>
+        <item>Licuadora</item>
+        <item>Microondas</item>
+    </string-array>
 </resources>
+
